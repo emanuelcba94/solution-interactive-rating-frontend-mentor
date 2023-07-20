@@ -117,7 +117,7 @@ body {
 
 .rating-submit:hover {
     background-color: var(--white);
-    color: var(--white);
+    color: var(--orange);
 }
 
 /* THANK YOU STATE */
